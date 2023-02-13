@@ -1,0 +1,15 @@
+{
+  "anuncios": [
+    {
+      "texto": "Bicicleta",
+      "usuario": "kuko perez",
+      "idUsuario": 23015
+      
+    },
+    {
+      "texto": "Bicicleta",
+      "usuario": "lolo garcia",
+      "idUsuario": 23016      
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "nombre": "kuko perez",
+      "idUsuario": 23015,
+      "password": "12345",
+      "email": "kukoperez@gmail.com",
+      "foto": ""
+    },
+    {
+      "nombre": "lolo garcia",
+      "idUsuario": 23016,
+      "password": "12345",
+      "email": "lologarcia@gmail.com",
+      "foto": ""
+    }
+  ]
+}
